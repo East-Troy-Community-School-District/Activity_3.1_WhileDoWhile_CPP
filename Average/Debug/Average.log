@@ -1,0 +1,2 @@
+﻿  Average.cpp
+C:\Users\Nolan Pawelski\Desktop\Average\Average.cpp(25): error C4700: uninitialized local variable 'average' used
